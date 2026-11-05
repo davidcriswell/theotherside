@@ -78,7 +78,7 @@ button {
     max-width:300px
 }
 
-/*.brand span:not(.brand-dot) {
+.brand span:not(.brand-dot) {
     color:var(--blue)
 }
 
@@ -86,7 +86,6 @@ button {
 .brand-dot {
     color:var(--orange)
 }
-*/
 
 .nav {
     display:flex;
