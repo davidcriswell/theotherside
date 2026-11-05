@@ -75,7 +75,7 @@ button {
     font:700 20px OldNewspaperTypes,serif;
     letter-spacing:.06em;
     line-height:1.05;
-    max-width:160px
+    max-width:300px
 }
 
 .brand span:not(.brand-dot) {
