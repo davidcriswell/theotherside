@@ -154,6 +154,8 @@ button {
     font-size:24px
 }
 
+/* Main title section */
+
 .hero {
     position:relative;
     min-height:min(780px,90vh);
