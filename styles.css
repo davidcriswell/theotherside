@@ -21,8 +21,10 @@
     box-sizing:border-box
 }
 
+/* HTML DESIGN */
+
 html {
-    scroll-behavior:smooth
+    scroll-behavior: smooth
 }
 
 body {
@@ -183,7 +185,7 @@ button {
 }
 
 .hero h1 {
-    font:700 clamp(55px,8vw,120px)/.94 Georgia,serif;
+    font:700 clamp(55px,8vw,120px)/.94 OldNewspaperTypes,serif;
     letter-spacing:.06em;
     margin:25px 0;
     text-shadow:0 4px 30px #000
@@ -196,7 +198,7 @@ button {
 }
 
 .hero-tagline {
-    font:16px Georgia,serif;
+    font:16px OldNewspaperTypes,serif;
     letter-spacing:.27em
 }
 
