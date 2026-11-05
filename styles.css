@@ -78,13 +78,15 @@ button {
     max-width:300px
 }
 
-.brand span:not(.brand-dot) {
+/*.brand span:not(.brand-dot) {
     color:var(--blue)
 }
+
 
 .brand-dot {
     color:var(--orange)
 }
+*/
 
 .nav {
     display:flex;
@@ -478,7 +480,7 @@ footer a {
 
 }
 
-@media(max-width:1000px) {
+@media(max-width:760px) {
     .site-header {
         padding:12px 20px
     }
