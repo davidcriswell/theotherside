@@ -478,7 +478,7 @@ footer a {
 
 }
 
-@media(max-width:760px) {
+@media(max-width:1000px) {
     .site-header {
         padding:12px 20px
     }
